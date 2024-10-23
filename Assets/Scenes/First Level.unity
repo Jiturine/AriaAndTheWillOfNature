@@ -344,6 +344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SceneEffectManager
       objectReference: {fileID: 0}
+    - target: {fileID: 2338913372475550479, guid: 7058fd9947fe45e4a8a294a2cafccd97, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1943,7 +1947,7 @@ PrefabInstance:
       objectReference: {fileID: 5144272916185118482, guid: 91f3ab3a6882fa74f858ec1a23261b2c, type: 2}
     - target: {fileID: 7685346529761329339, guid: 4c9d34e59515851429dab95687487c8e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.00005253082
+      value: 0.0001656475
       objectReference: {fileID: 0}
     - target: {fileID: 8452257289881945573, guid: 4c9d34e59515851429dab95687487c8e, type: 3}
       propertyPath: m_Name
