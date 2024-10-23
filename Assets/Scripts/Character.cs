@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 using Myd.Platform;
-using UnityEditor.U2D.Aseprite;
+//using UnityEditor.U2D.Aseprite;
 using UnityEngine;
 
 public class Character : MonoBehaviour

@@ -45,18 +45,15 @@ namespace NodeCanvas.StateMachines
             return result;
         }
         //just a default orange color
-<<<<<<< HEAD
         //public override void OnCreate(Graph assignedGraph)
         //{
         //    customColor = new Color(1, 0.42f, 0.32f);
         //}
-=======
-        // public override void OnCreate(Graph assignedGraph)
-        // {
-        //     Debug.Log(customColor);
-        //     customColor = new Color(1, 0.42f, 0.32f);
-        // }
->>>>>>> 58f21fb2f4e3b67ff8b00599c66bd9a9223e4a96
+         //public override void OnCreate(Graph assignedGraph)
+         //{
+         //    Debug.Log(customColor);
+         //    customColor = new Color(1, 0.42f, 0.32f);
+         //}
 
         ///<summary>Declares that the state has finished</summary>
         public void Finish() { Finish(Status.Success); }
