@@ -5,11 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    public void LoadRespond()
+    public void LoadRespond1()
     {
-        SceneManager.LoadScene("Respond");
+        SceneManager.LoadScene("Respond1");
     }
 
+    public void LoadRespond2()
+    {
+        SceneManager.LoadScene("Respond2");
+    }
     public void LoadPrefaceContinue()
     {
         SceneManager.LoadScene("PrefaceContinue");

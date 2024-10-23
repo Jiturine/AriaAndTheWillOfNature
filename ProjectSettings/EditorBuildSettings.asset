@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Select Level.unity
     guid: 2a1b655b62935434aa1131518ea18e6a
   - enabled: 1
-    path: Assets/Scenes/Respond.unity
+    path: Assets/Scenes/Respond2.unity
     guid: 69d125647b13b1d4baa19bc769697045
   - enabled: 1
     path: Assets/Scenes/PrefaceContinue.unity
@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Preface.unity
     guid: 93d81ba4da303544caff8baaea638068
+  - enabled: 1
+    path: Assets/Scenes/Respond1.unity
+    guid: 5908fd927c5e11a45b80fc8c9d79b7f2
+  - enabled: 1
+    path: Assets/Scenes/ElsePrefaceContinue.unity
+    guid: b2343028d5ce0ce409675a76ecf81372
   m_configObjects: {}
