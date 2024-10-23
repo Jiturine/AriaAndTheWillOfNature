@@ -18,7 +18,7 @@ namespace NodeCanvas.Tasks.Actions
         }
 
         protected override void OnExecute() {
-            SceneManager.LoadScene(sceneName.value, mode.value);
+            SceneManager.LoadScene(sceneName.value, mode.value); 
             EndAction();
         }
     }
