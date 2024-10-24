@@ -23,4 +23,9 @@ public class LoadScene : MonoBehaviour
     {
         SceneManager.LoadScene("SceneLevel1");
     }
+
+    public void LoadGameEnd()
+    {
+        SceneManager.LoadScene("GameEnd");
+    }
 }

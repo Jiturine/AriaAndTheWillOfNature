@@ -5,28 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BeginMenu.unity
     guid: a3a28f8025f0e1845b45a657292a2174
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Respond2.unity
     guid: 69d125647b13b1d4baa19bc769697045
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SceneLevel1.unity
     guid: 3d1278051270f7b4986bc136c437d559
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Preface.unity
     guid: 93d81ba4da303544caff8baaea638068
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Respond1.unity
     guid: 5908fd927c5e11a45b80fc8c9d79b7f2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PrefaceContinue.unity
     guid: e15f9cfc5846b4940bd1173e65b28fe9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ElsePrefaceContinue.unity
     guid: 2451c3a359631eb4093c8ced05b280d5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GroupList.unity
     guid: c6a13224f76a3ff489b07faec17b75d4
+  - enabled: 1
+    path: Assets/Scenes/EndRespond.unity
+    guid: deb13da29e7a0494fadcbffb3e3f989b
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 3e57b8f7b244a094e8c58ec57fda78a4
   m_configObjects: {}
